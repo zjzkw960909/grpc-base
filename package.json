@@ -1,0 +1,28 @@
+{
+  "name": "grpc-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjzkw960909/grpc-base.git"
+  },
+  "keywords": [
+    "grpc",
+    "node"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjzkw960909/grpc-base/issues"
+  },
+  "homepage": "https://github.com/zjzkw960909/grpc-base#readme",
+  "dependencies": {
+    "google-protobuf": "^3.5.0",
+    "grpc": "^1.11.0",
+    "koa-compose": "^4.0.0"
+  }
+}
